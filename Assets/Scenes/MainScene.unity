@@ -391,7 +391,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   rigidBody: {fileID: 0}
   jumpAction:
-    m_Name: 
+    m_Name: Jump
     m_Type: 0
     m_ExpectedControlType: 
     m_Id: c226fb1e-6ef8-49cb-9cf9-b4d44b004791
@@ -400,7 +400,7 @@ MonoBehaviour:
     m_SingletonActionBindings: []
     m_Flags: 0
   moveAction:
-    m_Name: 
+    m_Name: Move
     m_Type: 0
     m_ExpectedControlType: 
     m_Id: 98f062f2-8de0-40db-a962-1b741d493940
