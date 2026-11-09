@@ -5,8 +5,7 @@ You simultaneously play as two fallen deities: Salt, of stability and the body, 
 
 Work as a team to restore balance to the city, regain your lost divine strength, and maybe even learn the ancient art of transmutation.
 
-# Key features ([Detailed Roadmap](https://github.com/TreeLizarde/HalvesOfTria/wiki/Roadmap)
-)
+# Key features ([Detailed Roadmap](https://github.com/TreeLizarde/HalvesOfTria/wiki/Roadmap))
 - Two player characters (controlled simultaneously)
 - Simulated ecosystem of creatures and factions
 - Dynamic story events
